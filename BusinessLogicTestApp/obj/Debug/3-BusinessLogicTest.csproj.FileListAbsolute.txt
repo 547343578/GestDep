@@ -1,0 +1,15 @@
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\BusinessLogicTestApp.exe.config
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\BusinessLogicTestApp.exe
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\BusinessLogicTestApp.pdb
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\EntityFramework.dll
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\GestDepLibrary.dll
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\GestDepLibrary.pdb
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\GestDepLibrary.dll.config
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\EntityFramework.xml
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\obj\Debug\3-BusinessLogicTest.csprojAssemblyReference.cache
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\obj\Debug\3-BusinessLogicTest.csproj.CoreCompileInputs.cache
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\obj\Debug\3-BusinessLogicTest.csproj.CopyComplete
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\obj\Debug\BusinessLogicTestApp.exe
+C:\Users\wangl\Source\Repos\ProyectoISW\PracticasISW\BusinessLogicTestApp\obj\Debug\BusinessLogicTestApp.pdb
